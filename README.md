@@ -162,15 +162,4 @@ yarn dev
 
 Abra [http://localhost:5173](https://www.google.com/search?q=http://localhost:5173) (ou a porta indicada no seu terminal) para ver a aplicação funcionando.
 
-## 📸 Screenshots
-
-**Tela de Login**
-
-
-**Galeria de Cards**
-
-
-**Gerenciamento de Álbuns**
-
-
 -----
