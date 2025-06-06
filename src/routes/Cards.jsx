@@ -106,7 +106,7 @@ export function Cards() {
   return (
     <div className="container mx-auto p-4">
       <div className="flex justify-between items-center mb-6">
-        <Typography variant="h2">Nossos Cards</Typography>
+        <Typography variant="h2">Cards Seção</Typography>
         <div>
           <Button onClick={() => navigate("/galeria")} className="mr-4">
             Minha Galeria
