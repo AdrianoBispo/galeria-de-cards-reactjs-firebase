@@ -26,53 +26,6 @@ Este é um projeto front-end que permite aos usuários navegar por uma galeria d
 
 ## 🚀 Tecnologias Utilizadas
 
-<div style="display: flex; flex-direction: row;">
-  <div style="display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;">
-    <img src="./midia/logo-nodejs.svg" alt="Descrição da imagem" style="width: 48px; height: 48px;">
-    <p style="text-align: center; font-weight: bold;">Node JS</p>
-  </div>
-
-  <div style="display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;">
-    <img src="./midia/logo-vite.svg" alt="Descrição da imagem" style="width: 48px; height: 48px;">
-    <p style="text-align: center; font-weight: bold;">Vite</p>
-  </div>
-
-  <div style="display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;">
-    <img src="./midia/logo-react.svg" alt="Descrição da imagem" style="width: 48px; height: 48px;">
-    <p style="text-align: center; font-weight: bold;">React</p>
-  </div>
-
-  <div style="display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;">
-    <img src="./midia/logo-react-router.svg" alt="Descrição da imagem" style="width: 48px; height: 48px;">
-    <p style="text-align: center; font-weight: bold;">React Router</p>
-  </div>
-
-  <div style="display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;">
-    <img src="./midia/logo-tailwind.svg" alt="Descrição da imagem" style="width: 48px; height: 48px;">
-    <p style="text-align: center; font-weight: bold;">Tailwind CSS</p>
-  </div>
-
-  <div style="display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;">
-    <img src="./midia/logo-material-tailwind.png" alt="Descrição da imagem" style="width: 48px; height: 48px;">
-    <p style="text-align: center; font-weight: bold;">Material Tailwind</p>
-  </div>
-
-  <div style="display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;">
-    <img src="./midia/logo-markdown.svg" alt="Descrição da imagem" style="width: 48px; height: 48px;">
-    <p style="text-align: center; font-weight: bold;">React Markdown</p>
-  </div>
-
-   <div style="display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;">
-    <img src="./midia/logo-firebase.svg" alt="Descrição da imagem" style="width: 48px; height: 48px;">
-    <p style="text-align: center; font-weight: bold;">Firebase</p>
-  </div>
-
-   <div style="display: flex; flex-direction: column; width: 100%; justify-content: center; align-items: center;">
-    <img src="./midia/logo-dnd-kit.svg" alt="Descrição da imagem" style="width: 48px; height: 48px;">
-    <p style="text-align: center; font-weight: bold;">DND Kit</p>
-  </div>
-</div>
-
 - **Frontend:** React (com Vite)
 - **Roteamento:** React Router DOM
 - **Estilização:** Tailwind CSS & Material Tailwind
@@ -211,12 +164,12 @@ Abra [http://localhost:5173](https://www.google.com/search?q=http://localhost:51
 ## 📸 Screenshots
 
 **Tela de Login**
-`[Insira um screenshot da tela de login aqui]`
+
 
 **Galeria de Cards**
-`[Insira um screenshot da galeria principal aqui]`
+
 
 **Gerenciamento de Álbuns**
-`[Insira um GIF ou screenshot do modal de gerenciamento aqui]`
+
 
 -----
