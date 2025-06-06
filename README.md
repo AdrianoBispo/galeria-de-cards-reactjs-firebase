@@ -1,6 +1,6 @@
 # Galeria de Cards com React e Firebase
 
-<video controls src="midia/video-demonstrativo.mp4" title="Vídeo Demonstrativo" width="100%"></video>
+https://github.com/user-attachments/assets/b5935f7c-2b21-4683-96f8-e787f148938b
 
 Este é um projeto front-end que permite aos usuários navegar por uma galeria de cards, favoritá-los e criar álbuns personalizados. A aplicação utiliza React para a interface, Firebase para autenticação e banco de dados em tempo real, e dnd-kit para funcionalidades de arrastar e soltar.
 
