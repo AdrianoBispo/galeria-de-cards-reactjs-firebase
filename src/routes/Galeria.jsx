@@ -17,7 +17,7 @@ import {
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { EditAlbumModal } from "../components/EditAlbumModal";
-import { ManageCardsModal } from './../components/ManageCards';
+import { ManageCardsModal } from './../components/ManageCardsModal';
 
 import { CogIcon, TrashIcon, PencilIcon } from "../assets/Icones";
 import { cardData } from "../mocks/cardData";
