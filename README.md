@@ -146,7 +146,6 @@ Este projeto requer um projeto Firebase para funcionar.
   VITE_FIREBASE_STORAGE_BUCKET= # Cole seu "Storage Bucket" aqui
   VITE_FIREBASE_MESSAGING_SENDER_ID= # Cole seu "Messaging Sender ID" aqui
   VITE_FIREBASE_APP_ID= # Cole seu "App ID" aqui
-  VITE_MEASUREMENT_ID= # Cole seu "Measurement ID" aqui
 ```
 
 ### 4\. Executar o Projeto
